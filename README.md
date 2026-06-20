@@ -1,8 +1,7 @@
 ## 🚀 Uputstvo za pokretanje projekta
-
+```bash
 #1. Kloniranje ili preuzimanje projekta
 
-```bash
 git clone <link-do-repozitorijuma>
 cd "Adult census income - project"
 # Kreiraj virtuelno okruženje

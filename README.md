@@ -1,6 +1,6 @@
 ## 🚀 Uputstvo za pokretanje projekta
 
-### 1. Kloniranje ili preuzimanje projekta
+#1. Kloniranje ili preuzimanje projekta
 
 ```bash
 git clone <link-do-repozitorijuma>

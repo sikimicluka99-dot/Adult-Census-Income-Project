@@ -1,6 +1,8 @@
 ## 🚀 Uputstvo za pokretanje projekta
+
+### 1. Kloniranje ili preuzimanje projekta
+
 ```bash
-#1. Kloniranje ili preuzimanje projekta
 
 git clone <link-do-repozitorijuma>
 cd "Adult census income - project"
@@ -26,4 +28,10 @@ python src/train.py
 python src/evaluate.py
 
 #Pokretanje korisničkog interfejsa (UI)
-streamlit run app.py
+streamlit run UI/ui.py
+
+## 📄 Dokumentacija
+
+Detaljna dokumentacija projekta dostupna je u PDF formatu:
+
+[📥 Preuzmi dokumentaciju](docs/DOKUMENTACIJA.pdf)
